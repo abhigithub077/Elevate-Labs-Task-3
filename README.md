@@ -64,7 +64,7 @@ I used PowerBI to analyze and visualize the sales data of a cafe. I included key
 
 ![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-3/blob/9c35330e3e2e14fa2c09ba70fb04e0d342c2d209/Screenshot%202025-09-25%20201619.png)
 
-![image alt]()
+![image alt](https://github.com/abhigithub077/Elevate-Labs-Task-3/blob/42461a4af17f9ebf60e19aa55ea99bb7269a9f53/Screenshot%202025-09-25%20201629.png)
 
 ## 🚀 Summary
 To achieve better sales in upcoming years, the cafe should:  
